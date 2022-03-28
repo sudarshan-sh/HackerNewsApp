@@ -4,6 +4,10 @@
 
 Basic React app that features user-posted stories based on popularity.
 
+### Image
+
+![Hacker News App](https://github.com/sudarshan-sh/HackerNewsApp/blob/main/images/hacker-news-app.png)
+
 ##  Functional
 
 *   The stories are ranked based on points given by other users.
